@@ -1,0 +1,18 @@
+How many trips have been recorded total during the chosen period?
+There are 110,344 total record trips for the time period January 2022-March 2022.
+
+Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+The top 10 stations in the city for starting a journey include Grove St PATH, Hoboken Terminal - River St & Hudson Pl, Sip Ave, 
+Hoboken Terminal - Hudson St & Hudson Pl, Hamilton Park, Newport Pkwy, South Waterfront Walkway - Sinatra Dr & 1 St, City Hall-Washington St & 1 St,
+Newport PATH, and Marin Light Rail. Many of these stations are close to another form of public transportation (e.g., ferry, rails, subway). Perhaps people 
+arrive from New York and then use Citi bikes to get around Jersey?
+
+Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+Grove St PATH, Hoboken Terminal - River St & Hudson Pl, Sip Ave, 
+Hoboken Terminal - Hudson St & Hudson Pl, Hamilton Park, Newport Pkwy, South Waterfront Walkway - Sinatra Dr & 1 St, City Hall-Washington St & 1 St,
+Newport PATH, Hoboken Ave at Monmouth St. Perhaps the folks that came from New York are ready to go home so they end their journey right where they first arrived.
+
+What were the busiest days of the week?
+Weekdays are the busiest in terms of bike usage. A significant amount of people rent bikes between the hours of 7:00 - 8:00 AM and 7:00 - 8:00 PM. This might have 
+to do with people commuting to and from work. 
+
